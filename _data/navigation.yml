@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "The project"
+    url: /project/
+  - title: "Publications"
+    url: /publications/
+  - title: "Showcases"
+    url: /showcases/
+  - title: "Softwares"
+    url: /softwares/
+  - title: "Team"
+    url: /team/
