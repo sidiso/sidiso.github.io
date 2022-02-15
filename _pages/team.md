@@ -9,7 +9,12 @@ title: The SIDISO team
 
 - [François Orieux](https://pro.orieux.fr)
 
-The inverse problems team (GPI) has mixed expertise in architecture and signal processing with a long-term experience in deconvolution applied to astronomy. It is notably involved in the James Webb Space Telescope projet and the radio astronomy SKA project througt the [Hyperstars](http://hyperstars.fr/) and [Dark Era](https://dark-era.pages.centralesupelec.fr/) projects.
+The inverse problems team (GPI) has mixed expertise in architecture and signal
+processing with a long-term experience in deconvolution applied to astronomy. It
+is notably involved in the James Webb Space Telescope projet and the radio
+astronomy SKA project througt the [SIDISO](http://sidiso.github.io),
+[Hyperstars](http://hyperstars.fr/), and [Dark
+Era](https://dark-era.pages.centralesupelec.fr/) projects.
 
 ## [IAS](https://www.ias.u-psud.fr/) <font size="4">(Université Paris Saclay — CNRS)</font>
 
