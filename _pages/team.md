@@ -23,5 +23,5 @@ Era](https://dark-era.pages.centralesupelec.fr/) projects.
 
 ## Former members
 
-- Amine Hadj-Youcef
 - Ralph Abirizk
+- Amine Hadj-Youcef
