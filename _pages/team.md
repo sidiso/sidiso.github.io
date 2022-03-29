@@ -34,3 +34,6 @@ and now JWST.
 
 - Ralph Abirizk
 - Amine Hadj-Youcef
+- Jean-François Giovannelli
+- Thomas Rodet
+- Hachem Ayasso
