@@ -10,11 +10,14 @@ title: The SIDISO team
 - [François Orieux](https://pro.orieux.fr)
 
 The inverse problems team (GPI) has mixed expertise in architecture and signal
-processing with a long-term experience in deconvolution applied to astronomy. It
-is notably involved in the James Webb Space Telescope projet and the radio
-astronomy SKA project througt the [SIDISO](http://sidiso.github.io),
-[Hyperstars](http://hyperstars.fr/), and [Dark
-Era](https://dark-era.pages.centralesupelec.fr/) projects.
+processing with a long-term experience in image restauration and reconstruction
+applied to astronomy. It is notably involved in the James Webb Space Telescope
+projet and the radio astronomy SKA project througt the
+[SIDISO](http://sidiso.github.io), [Hyperstars](http://hyperstars.fr/), and
+[Dark Era](https://dark-era.pages.centralesupelec.fr/) projects.
+
+The L2S conduct research and development on the data processing and algorithms
+for Multispectral (imager) and Hyperspectrl images (Integral Field Unit).
 
 ## [IAS](https://www.ias.u-psud.fr/) <font size="4">(Université Paris Saclay — CNRS)</font>
 
@@ -28,12 +31,9 @@ and now JWST.
 
 ## Students
 
-- Dan Pineau
+- Dan Pineau (IAS)
 
 ## Former members
 
-- Ralph Abirizk
-- Amine Hadj-Youcef
-- Jean-François Giovannelli
-- Thomas Rodet
-- Hachem Ayasso
+- Ralph Abirizk (L2S)
+- Amine Hadj-Youcef (L2S)

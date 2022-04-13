@@ -9,6 +9,10 @@ The SIDISO (Spectral Imaging for DIffraction limited Space Observation) aims to
 develop new and original data processing methods and algorithms for space
 observation.
 
+It's a collaboration between [L2S](http://www.l2s.centralesupelec.fr) and
+[IAS](https://www.ias.u-psud.fr/). L2S, with [F. Orieux](https://pro.orieux.fr)
+conducts research and development on the data processing and algorithms.
+
 For now, the primary focus is on the [MIRI](https://www.jwst.fr/2021/02/miri/)
 instrument of the James Webb Space Telescope (JWST).
 
@@ -28,5 +32,3 @@ This work was performed using HPC resources from the “Mésocentre” computing
 center of CentraleSupélec and École Normale Supérieur Paris-Saclay, supported by
 CNRS and Région Île-de-France
 ([http://mesocentre.centralesupelec.fr/](http://mesocentre.centralesupelec.fr/)).
-
-_In construction._
