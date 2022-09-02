@@ -1,4 +1,5 @@
 ---
+permalink: /first-result/
 defaults:
   - scope:
       path: ""
