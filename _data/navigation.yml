@@ -10,3 +10,5 @@ main:
     url: /softwares/
   - title: "Team"
     url: /team/
+  - title: "News"
+    url: /news/
