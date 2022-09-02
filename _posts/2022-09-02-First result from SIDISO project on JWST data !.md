@@ -25,6 +25,6 @@ More works are necessary to improve the results, like models evolution, algorith
 
 {% include figure image_path="/assets/ngc628-deblurred-gray-text.png" alt="Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm `luigiz`" caption="Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm `luigiz`." %}
 
-F. Orieux, on behalf of the SIDISO project.
+F. Orieux, on behalf of the SIDISO team.
 
 [^1]: available when ready
