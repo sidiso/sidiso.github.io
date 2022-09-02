@@ -5,12 +5,14 @@ defaults:
       type: posts
     values:
       layout: single
-      title: "First results !"
       author_profile: true
       read_time: true
       comments: false
       share: true
       related: true
+    header:
+      image: /assets/ngc628-deblurred-gray-text.png
+      caption: "NGC628 JWST MIRI data processed by Luigiz"
 ---
 
 # First result from SIDISO project on JWST data !
@@ -29,6 +31,10 @@ results. Stay tuned.
 
  ![NGC628 raw](/assets/ngc628-raw-gray.png){: .align-center}
 
+{% include figure image_path="/assets/ngc628-raw-gray.png" alt="Grayscale version of JWST MIRI data of NGC628" caption="Grayscale version of JWST MIRI data of NGC628." %}
+
  ![NGC628 deblurred](/assets/ngc628-deblurred-gray-text.png){: .align-center}
+
+{% include figure image_path="/assets/ngc628-deblurred-gray-text.png" alt="Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm `Luigiz`" caption="Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm `Luigiz`." %}
 
 F. Orieux, on behalf of the SIDISO project.
