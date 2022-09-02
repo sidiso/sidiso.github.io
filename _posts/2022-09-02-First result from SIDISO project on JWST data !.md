@@ -19,7 +19,7 @@ After hard work, the SIDISO project is proud to produce the first data processin
 
 The main objective of such work is to improve the spatial resolution of the image. We will describe later in more details what has been done.
 
-More works are necessary to improve the results, like models evolution, algorithms adaptation, or tests. Stay tuned...
+More works are necessary to improve the results, like models evolution, algorithms adaptation, or tests. Raw data will be made available soon. Stay tuned...
 
 {% include figure image_path="/assets/ngc628-raw-gray.png" alt="Grayscale version of JWST MIRI data of NGC628" caption="Grayscale version of JWST MIRI data of NGC628." %}
 
