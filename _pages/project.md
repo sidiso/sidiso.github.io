@@ -11,8 +11,8 @@ observation.
 
 It's a collaboration between [L2S](http://www.l2s.centralesupelec.fr) and
 [IAS](https://www.ias.u-psud.fr/). [F. Orieux](https://pro.orieux.fr), within
-[L2S], is the PI of research and development on novel data processing and
-algorithms.
+[L2S](http://www.l2s.centralesupelec.fr), is the PI of research and development
+on novel data processing and algorithms.
 
 For now, the primary focus is on the [MIRI](https://www.jwst.fr/2021/02/miri/)
 instrument of the James Webb Space Telescope (JWST).
