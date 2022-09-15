@@ -27,8 +27,6 @@ More works are necessary to improve the results, like models evolution, algorith
 
 {% include figure image_path="/assets/ngc628-deblurred-gray-text.png" alt="Mean of the four filters of JWST MIRI data observing NGC628 processed by SIDISO's Super-Resolution and deconvolution algorithm `luigiz`." caption="Mean of the four filters of JWST MIRI data observing NGC628 processed by SIDISO's Super-Resolution algorithm `luigiz`." %}
 
-[{% include figure image_path="/assets/ngc628-deblurred-gray-text.small.png" alt="Mean of the four filters of JWST MIRI data observing NGC628 processed by SIDISO's Super-Resolution and deconvolution algorithm `luigiz`." caption="Mean of the four filters of JWST MIRI data observing NGC628 processed by SIDISO's Super-Resolution algorithm `luigiz`." %}]("/assets/ngc628-deblurred-gray-text.png")
-
 F. Orieux, on behalf of the SIDISO team.
 
 [^1]: available when ready
