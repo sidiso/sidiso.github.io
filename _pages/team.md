@@ -22,7 +22,7 @@ for Multispectral (imager) and Hyperspectrl images (Integral Field Unit).
 ## [IAS](https://www.ias.u-psud.fr/) <font size="4">(Université Paris Saclay — CNRS)</font>
 
 - [Alain Abergel](mailto:alain.abergel@universite-paris-saclay.fr)
-- [Boris Trahin](mailto:boris.trahin@universite-paris-saclay.fr>)
+- [Nicolas Monnier](mailto:nicolas.monnier@universite-paris-saclay.fr>)
 
 The laboratory has a long-term experience in the development, the
 implementation, the processing and the analysis of data taken by space
@@ -35,5 +35,6 @@ and now JWST.
 
 ## Former members
 
+- [Boris Trahin](mailto:boris.trahin@universite-paris-saclay.fr>)
 - Ralph Abirizk (L2S)
 - Amine Hadj-Youcef (L2S)
