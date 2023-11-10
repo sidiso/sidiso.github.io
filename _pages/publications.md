@@ -23,6 +23,8 @@ Boucaud A., Dole H., Abergel A., Ayasso H., Orieux F., "PSF Homogenization for M
 
 ## International Conferences
 
+Pineau D., Orieux F., Abergel A., "Exact Solution for Multispectral and Hyperspectral Fusion via Hessian Inversion", *Proc. of IEEE WHISPERS*<i class="fas fa-external-link"></i>, 2023. [[pdf]](/assets/pdf/Pineau et al. - 2023.pdf)
+
 Abirizk R., Orieux F., Abergel A., "Non-Stationary Hyperspectral Forward Model and High-Resolution", *Proc. of 27th IEEE Int. Conf. on Image Processing*<i class="fas fa-external-link"></i>, 2020. [[pdf]](/assets/pdf/Abi-rizk et al. - Non-Stationary Hyperspectral Forward Model and Hig.pdf)
 
 ----
@@ -33,8 +35,7 @@ Hadj-Youcef M., Orieux F., Fraysse A., Abergel A., "Restoration from Multispectr
 
 ## Associated publications
 
-Previsou work were done before the restart of the collaboration between L2S and
-IAS.
+Previous works were done before the restart of the collaboration between L2S and IAS.
 
 ----
 Orieux F., Giovannelli J., Rodet T., Abergel A., "Estimating Hyperparameters and Instrument Parameters in Regularized Inversion. Illustration for Herschel/Spire Map Making.", *Astronomy & Astrophysics*, 2013. [[↪]](https://doi.org/10.1051/0004-6361/201219950), [[pdf]](/assets/pdf/Orieux et al. - 2013 - Estimating Hyperparameters and Instrument Paramete.pdf)
