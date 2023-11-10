@@ -1,6 +1,6 @@
 ---
-permalink: /whispers23/
-title: "Publication accepted at WHISPERS 2023"
+permalink: /sub-ieee-tip/
+title: "Submission to IEEE Trans. on Image Proc."
 defaults:
   - scope:
       path: ""
