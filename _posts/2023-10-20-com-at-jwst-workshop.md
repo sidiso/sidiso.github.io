@@ -14,4 +14,4 @@ defaults:
       related: true
 ---
 
-Our communication at the workshop "Improving JWST Data Products" at Baltimore, USA, as been accepted. We will present a poster on the futur pipeline "luigiz" we develop.
+[Our communication](https://hal.science/hal-04288066) at the workshop "Improving JWST Data Products" at Baltimore, USA, as been accepted. We will present a poster on the futur pipeline "luigiz" we develop.
