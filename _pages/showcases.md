@@ -5,15 +5,11 @@ permalink: /showcases/
 title: Showcases
 ---
 
-<script defer src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js" ></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css" />
 
 # NGC628 restauration from MIRIM data
 
-<img-comparison-slider>
-  <img slot="first" src="/assets/ngc628-raw-gray.jpg" />
-  <img slot="second" src="/assets/ngc628-deblurred-gray-text.jpg" />
-</img-comparison-slider>
+<img-comparison-slider> <img slot="first" src="/assets/ngc628-raw-gray.jpg" /> <img slot="second" src="/assets/ngc628-deblurred-gray-text.jpg" /> </img-comparison-slider>
 
 {% include figure image_path="/assets/ngc628-raw-gray.png" alt="Grayscale version of JWST MIRI data of NGC628" caption="Grayscale version of JWST MIRI data of NGC628." %}
 
@@ -23,6 +19,6 @@ title: Showcases
 
 From this [paper](https://ieeexplore.ieee.org/document/9740457).
 
- ![abirizk2022](/assets/abirizk2022.jpg){: .align-center}
+![abirizk2022](/assets/abirizk2022.jpg){: .align-center}
 
 _In construction._
