@@ -11,7 +11,7 @@ title: Showcases
 
 <figure>
     <img-comparison-slider> <img slot="second" src="/assets/ngc628-raw-gray.jpg" /> <img slot="first" src="/assets/ngc628-deblurred-gray-text.jpg" /> </img-comparison-slider>
-    <figcaption>Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm `luigiz` or not.</figcaption>
+    <figcaption>Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm luigiz or not.</figcaption>
 </figure>
 
 <!-- {% include figure image_path="/assets/ngc628-raw-gray.png" alt="Grayscale version of JWST MIRI data of NGC628" caption="Grayscale version of JWST MIRI data of NGC628." %} -->
