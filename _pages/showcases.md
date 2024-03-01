@@ -27,18 +27,14 @@ gallery:
     <figcaption>Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm luigiz or not.</figcaption>
 </figure>
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery class="full" caption="Click for zooming." %}
 
-<!-- [![](/assets/ngc628-deblurred-gray-text.jpg)](/assets/ngc628-deblurred-gray-text.jpg) -->
-
-<!-- {% include figure image_path="/assets/ngc628-raw-gray.png" alt="Grayscale version of JWST MIRI data of NGC628" caption="Grayscale version of JWST MIRI data of NGC628." %} -->
-
-<!-- {% include figure image_path="/assets/ngc628-deblurred-gray-text.png" alt="" caption="Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm `luigiz`." %} -->
+[![](/assets/ngc628-deblurred-gray-text.jpg)](/assets/ngc628-deblurred-gray-text.jpg)
 
 # Hyperspectral reconstruction from MIRI/MRS data
 
 From this [paper](https://ieeexplore.ieee.org/document/9740457).
 
-![abirizk2022](/assets/abirizk2022.jpg){: .align-center}
+[![](/assets/abirizk2022.jpg)](/assets/abirizk2022.jpg){: .align-center}
 
 _In construction._
