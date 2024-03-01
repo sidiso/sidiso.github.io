@@ -29,8 +29,6 @@ gallery:
 
 {% include gallery class="full" caption="Click for zooming." %}
 
-[![](/assets/ngc628-deblurred-gray-text.jpg)](/assets/ngc628-deblurred-gray-text.jpg)
-
 # Hyperspectral reconstruction from MIRI/MRS data
 
 From this [paper](https://ieeexplore.ieee.org/document/9740457).
