@@ -14,6 +14,8 @@ title: Showcases
     <figcaption>Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm luigiz or not.</figcaption>
 </figure>
 
+[![](/assets/ngc628-deblurred-gray-text.jpg)](/assets/ngc628-deblurred-gray-text.jpg)
+
 <!-- {% include figure image_path="/assets/ngc628-raw-gray.png" alt="Grayscale version of JWST MIRI data of NGC628" caption="Grayscale version of JWST MIRI data of NGC628." %} -->
 
 <!-- {% include figure image_path="/assets/ngc628-deblurred-gray-text.png" alt="" caption="Grayscale version of JWST MIRI data of NGC628 processed by SIDISO's algorithm `luigiz`." %} -->
